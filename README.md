@@ -1,1 +1,2 @@
-# MyfirstRepo
+cd MyFirstRepo
+
